@@ -1,0 +1,33 @@
+body {
+    background-color: #ebebeb;
+}
+.content {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.foto {
+    width: 300px;
+}
+.catalogItem {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.product {
+    height: 100%;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.product img {
+    width: 100%;
+}
+.comment {
+    width: 400px;
+    height: 150px;
+    background-color: white;
+    text-align: center;
+}
